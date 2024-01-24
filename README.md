@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @MarkuzFiveM
+- 👀 I’m interested in Fivem Development
+- 🌱 I’m currently learning Lua
+- 📫 How to reach me Discord : orewo2
